@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**Adrianogba/adrianogba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! I'm Adriano <img src="https://github.com/Adrianogba/adrianogba/blob/main/Hi.gif" width="30px"></h2>
 
-Here are some ideas to get you started:
+### Abstract
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I'm currently working full-time as Fullstack Mobile Developer at **Conductor Tecnologia S/A**.
+- 🌱 Learning more about and studying: **Flutter, CD/CI and face recognition solutions**.
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogba&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/adrianogba/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=adrianogba&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
+
+### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/adriano-martins-de-pontes-b1b2a420/">LinkedIn</a>.
