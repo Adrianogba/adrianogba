@@ -3,8 +3,8 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time as Fullstack Mobile Developer at **Conductor Tecnologia S/A**.
-- 🌱 Learning more about and studying: **Flutter, CD/CI and face recognition solutions**.
+- 👨‍💻 I'm currently working full-time as Tech Leader at **Mob4Pay**.
+- 🌱 Learning more about and studying: **Flutter, CD/CI and Liveness Detection solutions**.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,4 +24,4 @@
 
 
 ### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/adriano-martins-de-pontes-b1b2a420/">LinkedIn</a>.
+- 💼 <a href="https://www.linkedin.com/in/adriano-martins-de-pontes-b1b2a420/">LinkedIn</a>
