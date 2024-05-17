@@ -4,7 +4,7 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time as Tech Leader at **Mob4Pay**.
-- 🌱 Learning more about and studying: **Flutter, CD/CI and Liveness Detection solutions**.
+- 🌱 Learning more about and studying: **Flutter, Generative AI and Liveness Detection solutions**.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
