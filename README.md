@@ -6,7 +6,7 @@
 - 👨‍💻 I'm currently working full-time as Tech Leader at **Mob4Pay**.
 - 🌱 Learning more about and studying: **Flutter, Generative AI and Liveness Detection solutions**.
 
-<a href="https://github.com/adrianogba/github-readme-stats">
+<a href="#">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogba&layout=compact"
