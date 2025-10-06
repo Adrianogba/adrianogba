@@ -15,4 +15,4 @@
 
 
 ### Find me around the web 🌎:
-- 💼 <a href="https://www.linkedin.com/in/adriano-martins-de-pontes-b1b2a420/">LinkedIn</a>
+- 💼 <a href="https://www.linkedin.com/in/adrianogba/">LinkedIn</a>
