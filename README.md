@@ -4,7 +4,7 @@ Full Stack Mobile Developer. I work with a bunch of things, from infrastructure 
 
 ### Open source
 
-I publish libraries for:
+I have some libs published for:
 
 - **Flutter**, on [pub.dev](https://pub.dev/publishers/adrianogba.is-a.dev/packages)
 - **Kotlin and Compose Multiplatform**, on [Maven Central](https://central.sonatype.com/namespace/io.github.adrianogba)
