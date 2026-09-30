@@ -1,18 +1,15 @@
+## Hi, I'm Adriano <img src="Hi.gif" width="30px">
 
-## Hi there! I'm Adriano <img src="https://github.com/Adrianogba/adrianogba/blob/main/Hi.gif" width="30px"></h2>
+Full Stack Mobile Developer. I work with a bunch of things, from infrastructure and DevSecOps to SQL and React, but mostly I develop Apps. Currently in love with Flutter.
 
-### Abstract
+### Open source
 
-- 👨‍💻 I'm currently working full-time as Tech Leader at **Mob4Pay**.
-- 🌱 Learning more about and studying: **Flutter, Generative AI and Liveness Detection solutions**.
+I publish libraries for:
 
-<a href="#">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogba&layout=compact"
-    />
-  </a>
+- **Flutter**, on [pub.dev](https://pub.dev/publishers/adrianogba.is-a.dev/packages)
+- **Kotlin and Compose Multiplatform**, on [Maven Central](https://central.sonatype.com/namespace/io.github.adrianogba)
+- **Swift and SwiftUI**, on the [Swift Package Index](https://swiftpackageindex.com/Adrianogba)
 
+### Find me
 
-### Find me around the web 🌎:
-- 💼 <a href="https://www.linkedin.com/in/adrianogba/">LinkedIn</a>
+- 💼 [LinkedIn](https://www.linkedin.com/in/adrianogba/)
