@@ -2,18 +2,12 @@
 
 Full Stack Mobile Developer. I work with a bunch of things, from infrastructure and DevSecOps to SQL and React, but mostly I develop Apps. Currently in love with Flutter.
 
-### Apps
+I've have some personal apps on [Google Play](https://play.google.com/store/apps/developer?id=Adriano+Pontes).
 
-My published apps are on [Google Play](https://play.google.com/store/apps/developer?id=Adriano+Pontes).
-
-### Open source
-
-I publish libraries for:
-
+I've also published some libraries in:
 - **Flutter**, on [pub.dev](https://pub.dev/publishers/adrianogba.is-a.dev/packages)
 - **Kotlin and Compose Multiplatform**, on [Maven Central](https://central.sonatype.com/namespace/io.github.adrianogba)
 - **Swift and SwiftUI**, on the [Swift Package Index](https://swiftpackageindex.com/Adrianogba)
 
 ### Find me
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/adrianogba/)
