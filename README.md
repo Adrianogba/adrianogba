@@ -4,10 +4,10 @@ Full Stack Mobile Developer. I work with a bunch of things, from infrastructure 
 
 I've have some personal apps on [Google Play](https://play.google.com/store/apps/developer?id=Adriano+Pontes).
 
-I've also published some libraries in:
-- **Flutter**, on [pub.dev](https://pub.dev/publishers/adrianogba.is-a.dev/packages)
-- **Compose Multiplatform**, on [Maven Central](https://central.sonatype.com/namespace/io.github.adrianogba)
-- **Swift**, on the [Swift Package Index](https://swiftpackageindex.com/Adrianogba)
+I've also published some libraries:
+- **Flutter** on [pub.dev](https://pub.dev/publishers/adrianogba.is-a.dev/packages)
+- **Compose Multiplatform** on [Maven Central](https://central.sonatype.com/namespace/io.github.adrianogba)
+- **Swift** on the [Swift Package Index](https://swiftpackageindex.com/Adrianogba)
 
 ### Find me
 - 💼 [LinkedIn](https://www.linkedin.com/in/adrianogba/)
