@@ -21,71 +21,27 @@ Lately that means Flutter, along with native Kotlin and Swift, backend services 
 
 ## Published work
 
-<img align="right" width="405" src="assets/screens/banricard-multi.webp" alt="Banricard Multi: home, cards and statement screens">
+I have apps on Google Play, some of my own, like [Selic Agora](https://play.google.com/store/apps/details?id=adrianogba.selic), and others built for clients such as Banrisul, like Banricard Multi, available on the [Google Play Store](https://play.google.com/store/apps/details?id=br.com.sejavero.banricardmulti) and the [Apple App Store](https://apps.apple.com/br/app/banricard-multi/id6800410716).
 
-**Banricard Multi**<br>
-[Google Play](https://play.google.com/store/apps/details?id=br.com.sejavero.banricardmulti) · [App Store](https://apps.apple.com/br/app/banricard-multi/id6800410716)
+I also publish open source libraries:
+- **Flutter** on [pub.dev](https://pub.dev/publishers/adrianogba.is-a.dev/packages)
+- **Compose Multiplatform** on [Maven Central](https://central.sonatype.com/namespace/io.github.adrianogba)
+- **Swift** on the [Swift Package Index](https://swiftpackageindex.com/Adrianogba)
+- **React, Vue and React Native** on [GitHub](https://github.com/Adrianogba/brazil-state-flags-js)
 
-Multi-benefit card app from Banrisul, which I built on my own as a single Flutter codebase for Android and iOS. Wallet balances, statements and physical and virtual card management. 5K+ downloads on Google Play.
-
-<br clear="all">
-
-<img align="right" width="404" src="assets/screens/selic-agora.webp" alt="Selic Agora: rate and chart screen, custom range picker and dark theme">
-
-**Selic Agora**<br>
-[Google Play](https://play.google.com/store/apps/details?id=adrianogba.selic)
-
-Flutter app that tracks Brazil's base interest rate, with an investment simulator, history charts and the Copom calendar. 1K+ downloads on Google Play.
-
-<br clear="all">
-
-<img align="right" width="325" src="assets/screens/brazil-state-flags.webp" alt="Brazil State Flags example app: all flags and style options">
-
-**Brazil State Flags**<br>
-[Flutter](https://pub.dev/packages/brazil_state_flags) · [Compose Multiplatform](https://central.sonatype.com/artifact/io.github.adrianogba/brazil-state-flags-compose) · [SwiftUI](https://swiftpackageindex.com/Adrianogba/brazil-state-flags-swift) · [React, Vue and React Native](https://github.com/Adrianogba/brazil-state-flags-js)
-
-All 26 states, the Federal District and Brazil as native vectors, with no image assets and no dependencies.
-
-<br clear="all">
-
-<img align="right" width="325" src="assets/screens/material-glimmer-ui.webp" alt="material_glimmer_ui: cards, controls and small components">
-
-**material_glimmer_ui**<br>
-[pub.dev](https://pub.dev/packages/material_glimmer_ui)
-
-Flutter UI kit of glass surfaces and lit edges, inspired by Jetpack Compose Glimmer and Material Design.
-
-<br clear="all">
-
-<img align="right" width="405" src="assets/screens/sun-moon-switch.webp" alt="sun_moon_switch in its day and night states">
-
-**sun_moon_switch**<br>
-[pub.dev](https://pub.dev/packages/sun_moon_switch)
-
-Animated day/night toggle for Flutter, drawn entirely with `CustomPainter`.
-
-<br clear="all">
-
-All three Flutter packages score 160/160 pub points.
+<img src="assets/work.webp" alt="Screens from Banricard Multi, material_glimmer_ui, Selic Agora and the Brazil State Flags example" width="100%">
 
 ## Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Flutter, Dart, Kotlin, Swift, TypeScript, React, Vue, Go, Spring, PostgreSQL, Firebase, Docker, GitHub Actions, Grafana">
+  <img src="assets/stack-light.svg" alt="Flutter, Dart, Android, iOS, Kotlin, Swift, TypeScript, React, Vue, Go, Spring, PostgreSQL, Firebase, Docker, GitHub Actions, Grafana">
 </picture>
 
-**Mobile:** Flutter, Dart, Kotlin, Compose Multiplatform, Android, Swift, SwiftUI<br>
+**Mobile:** Flutter, Dart, Android, iOS, Kotlin, Compose Multiplatform, Swift, SwiftUI<br>
 **Backend:** Go, Spring, PostgreSQL, Firebase<br>
 **Web:** TypeScript, React, Vue<br>
 **Infrastructure:** Docker, GitHub Actions, Grafana, DevSecOps
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="Contributions and top languages" width="100%">
-</picture>
 
 ## Contact
 
